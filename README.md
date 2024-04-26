@@ -1,7 +1,7 @@
 # BA865 Face Recognition
 **Group 8: Yu-Fang(Unice) Liao, Han Nga Chan, Yumeng Tang**
 
-**The order to read our Jupyter notebooks**
+**The order to read our Jupyter notebooks:**
 ![Blank diagram](https://github.com/BA-865/BA865FaceRecognition_Group8_B1/assets/74975816/48525360-4b4d-4f28-b142-181624d38017)
 
 
