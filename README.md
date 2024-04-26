@@ -1,2 +1,2 @@
-# BA865FaceRecognition
+# BA865 Face Recognition
 **Group 8: Yu-Fang(Unice) Liao, Han Nga Chan, Yumeng Tang**
